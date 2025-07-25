@@ -1,4 +1,5 @@
 // commit to branch
+//commit to branch second time
 package com.techsmith.gitsampleapp;
 
 import android.os.Bundle;

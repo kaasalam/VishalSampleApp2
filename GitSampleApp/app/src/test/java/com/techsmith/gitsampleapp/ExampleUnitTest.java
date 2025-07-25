@@ -1,3 +1,4 @@
+//First commit to branch
 package com.techsmith.gitsampleapp;
 
 import org.junit.Test;
