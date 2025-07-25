@@ -1,3 +1,4 @@
+//commit to branch2
 package com.techsmith.gitsampleapp;
 
 import org.junit.Test;
